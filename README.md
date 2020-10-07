@@ -7,7 +7,7 @@ If you are older than 20 years old and a bit social you have been in a situation
 * <b>The idea</b>
 
 
-The idea is to make a glove, and in the future an implant, in where the deaf person puts in his hand or hands and the motion translates to words in a screen or into voice the assistance of google translate, Bixby or Siri
+The idea is to make a glove, and in the future an implant, in where the deaf person puts in his hand or hands and the motion translates to words in a screen or into voice the assistance of google translate, Bixby, Siri or Cortana.
 
 * <b>The main Question</b>
 
